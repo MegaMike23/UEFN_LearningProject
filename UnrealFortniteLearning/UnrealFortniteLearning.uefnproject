@@ -1,0 +1,42 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "UnrealFortniteLearning",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "26.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "UnrealFortniteLearning",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "7232872e-4b5b-c9a2-c3e1-bd834e9661b4",
+		"modules":
+		{
+			"UnrealFortniteLearning": "5ad5732e-44e2-8942-d45b-3c81103e9813"
+		}
+	}
+}
